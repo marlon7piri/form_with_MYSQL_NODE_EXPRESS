@@ -1,0 +1,32 @@
+.formulario{
+
+  background-color: darkgrey;
+  width:400px;
+  height:100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap:20px;
+}
+
+.inputs{
+width:200px;
+  display: flex;
+
+}
+
+.usuarios{
+
+  background-color: red;
+  width: 600px;
+  height:100%;
+  text-align: center;
+  color:white;
+
+}
+
+.lista{
+  display: flex;
+  gap:30px;
+  
+}
